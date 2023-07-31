@@ -1,0 +1,10 @@
+.tophire__built-sec{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 8rem 0;
+}
+.tophire__built-sec h1,p{
+   text-align: center;
+}
